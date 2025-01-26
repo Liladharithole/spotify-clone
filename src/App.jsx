@@ -1,10 +1,18 @@
-
-import React from 'react'
+import React from "react";
+import Sidebar from "./components/Sidebar";
+import Player from "./components/Player";
 
 const App = () => {
   return (
-    <div><h1 className='text-3xl'>Liladhar</h1></div>
-  )
-}
+    <>
+      <div className="h-screen bg-black">
+        <div className="h-[90%] flex">
+          <Sidebar></Sidebar>
+        </div>
+        <Player></Player>
+      </div>
+    </>
+  );
+};
 
-export default App
+export default App;
