@@ -60,4 +60,10 @@ This project is not under the MIT License.
 - [Spotify](https://www.spotify.com) for the inspiration
 - [React](https://reactjs.org)
 - [Tailwind CSS](https://tailwindcss.com)
+- GitHub Copilot and other AI tools for assistance
+- Various YouTube channels for tutorials and guidance
+
+## Note
+
+This is currently a front-end project. The backend will be added at a later stage.
 
