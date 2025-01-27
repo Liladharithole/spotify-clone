@@ -1,8 +1,63 @@
-# React + Vite
+# Spotify Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Spotify clone built with React, React Router, and Tailwind CSS. This project mimics the core functionalities of Spotify, including browsing albums, viewing album details, and navigating between different pages.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse featured charts and today's biggest hits
+- View album details including album image, description, and track list
+- Navigate between home and album detail pages
+- Responsive design using Tailwind CSS
+
+## Technologies Used
+
+- React
+- React Router
+- Tailwind CSS
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/liladharithole/spotify-clone.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd spotify-clone
+    ```
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+1. Start the development server:
+    ```bash
+    npm run dev
+    ```
+2. Open your browser and go to `http://localhost:5173`.
+
+## Project Structure
+
+- `src/`
+  - `assets/`: Contains images and data for albums and songs
+  - `components/`: Contains React components used in the project
+  - `App.jsx`: Main application component
+  - `index.css`: Global CSS file
+  - `main.jsx`: Entry point of the application
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+
+## License
+
+This project is not under the MIT License. 
+
+## Acknowledgements
+
+- [Spotify](https://www.spotify.com) for the inspiration
+- [React](https://reactjs.org)
+- [Tailwind CSS](https://tailwindcss.com)
+
