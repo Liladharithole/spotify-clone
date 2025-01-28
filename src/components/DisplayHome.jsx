@@ -20,7 +20,7 @@ const DisplayHome = () => {
               desc={item.desc}
               id={item.id}
             ></TempAlbumItem>
-          ))}
+          ))}  
         </div>
       </div>
       <div className="my-4">

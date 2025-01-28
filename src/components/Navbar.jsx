@@ -41,7 +41,7 @@ const Navbar = () => {
         <p className="bg-purple-500 px-4 py-1 rounded-2xl cursor-pointer">Podcast</p>
       </div>
     </>
-  );
+  );  
 };
 
 export default Navbar;

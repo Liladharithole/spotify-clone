@@ -34,7 +34,7 @@ const Display = () => {
           element={<DisplayAlbum></DisplayAlbum>}
         ></Route>
       </Routes>
-    </div>
+    </div>  
   );
 };
 

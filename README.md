@@ -67,3 +67,4 @@ This project is not under the MIT License.
 
 This is currently a front-end project. The backend will be added at a later stage.
 
+  

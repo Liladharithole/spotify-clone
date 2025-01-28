@@ -13,7 +13,7 @@ const AlbumItem = ({ image, name, desc, id }) => {
       <p className="font-bold mt-2 mb-1">{name}</p>
       <p className="text-slate-200 text-sm">{desc}</p>
     </div>
-  );
+  );  
 };
 
 export default AlbumItem;

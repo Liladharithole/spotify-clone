@@ -17,7 +17,7 @@ const App = () => {
         <Player></Player>
         <audio ref={audioRef} src={track.file} preload="auto"></audio>
       </div>
-    </>
+    </>  
   );
 };
 
