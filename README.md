@@ -36,7 +36,7 @@ A Spotify clone built with React, React Router, and Tailwind CSS. This project m
     ```bash
     npm run dev
     ```
-2. Open your browser and go to `http://localhost:5173`.
+2. Open your browser and go to `http://localhost:5173` or `http://localhost:5174`.
 
 ## Project Structure
 
